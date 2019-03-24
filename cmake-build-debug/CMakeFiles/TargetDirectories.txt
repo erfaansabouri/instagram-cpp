@@ -1,0 +1,3 @@
+D:/Source/CPP/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+D:/Source/CPP/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Source/CPP/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
